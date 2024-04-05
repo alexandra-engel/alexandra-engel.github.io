@@ -3,12 +3,14 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+output:
+      html_document: default
 ---
 
 Publications
 ======
 <div style="text-indent: -36px; padding-left: 36px;">
-  Engel, Alexandra & Benedikt Szmrecsanyi. 2023. Variable grammars are variable across registers: Future temporal reference in English. <em>Language Variation and Change</em> 34(3). 355–378.
+  <p>Engel, Alexandra & Benedikt Szmrecsanyi. 2023. Variable grammars are variable across registers: Future temporal reference in English. <em>Language Variation and Change</em> 34(3). 355–378.</p>
   <p>Szmrecsanyi, Benedikt & Alexandra Engel. 2022. A variationist perspective on the comparative complexity of four registers at the intersection of mode and formality.<em>Corpus Linguistics and Linguistic Theory</em> 19(1). 79-113. https://doi.org/10.1515/cllt-2022-0031</p>
   <p>Engel, Alexandra, Grafmiller, Jason, Rosseel, Laura & Szmrecsanyi, Benedikt. 2022. Assessing the complexity of lectal competence: the register-specificity of the dative alternation after <em>give</em>. <em>Cognitive Linguistics</em> 33(4). 727-766. https://doi.org/10.1515/cog-2021-0107</p>
   <p>Engel, Alexandra, Grafmiller, Jason, Rosseel, Laura, Szmrecsanyi, Benedikt & Van de Velde, Freek. 2021. How register-specific is probabilistic grammatical knowledge?: A programmatic sketch and a case study on the dative alternation with <em>give</em>. In Elena Seoane & Douglas Biber (eds.), <em>Corpus-based approaches to register variation</em>. Amsterdam: John Benjamins Publishing Company. 51–84. https://doi.org/10.1075/scl.103.03eng</p>
