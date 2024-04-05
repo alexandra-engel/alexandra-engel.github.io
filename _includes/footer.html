@@ -1,6 +1,37 @@
+---
+layout: archive
+title: "Sitemap"
+permalink: /sitemap/
+author_profile: true
+---
+
 {% include base_path %}
 
-{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
+A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
+<h2>Pages</h2>
+{% for post in site.pages %}
+  {% include archive-single.html %}
+{% endfor %}
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<h2>Posts</h2>
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% capture written_label %}'None'{% endcapture %}
+
+{% for collection in site.collections %}
+{% unless collection.output == false or collection.label == "posts" %}
+  {% capture label %}{{ collection.label }}{% endcapture %}
+  {% if label != written_label %}
+  <h2>{{ label }}</h2>
+  {% capture written_label %}{{ label }}{% endcapture %}
+  {% endif %}
+{% endunless %}
+{% for post in collection.docs %}
+  {% unless collection.output == false or collection.label == "posts" %}
+  {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}
+{% endfor %}
