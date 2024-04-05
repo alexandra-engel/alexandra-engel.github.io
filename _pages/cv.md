@@ -34,5 +34,7 @@ Work experience
 Other activities
 ======
 * Reviewer for *Language Variation and Change* and *Cognitive Linguistics*
+* Science communication with Science Figured Out: https://www.sciencefiguredout.be/can-we-be-multilingual-our-own-mother-tongue
+* 3rd place in the category “Best visualization” at the Datathon 2020 (KU Leuven) with the team *Linguistatistics*
 
   
