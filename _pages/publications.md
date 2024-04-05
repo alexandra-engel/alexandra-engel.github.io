@@ -7,7 +7,7 @@ author_profile: true
 
 Publications
 ======
-<div style=“text-indent: -36px; padding-left: 36px;”> 
+<div style="text-indent: -36px; padding-left: 36px;"> 
   <p>Engel, Alexandra & Benedikt Szmrecsanyi. 2023. Variable grammars are variable across registers: Future temporal reference in English. <em>Language Variation and Change</em> 34(3). 355–378.</p>
   <p>Szmrecsanyi, Benedikt & Engel, Alexandra. 2022. A variationist perspective on the comparative complexity of four registers at the intersection of mode and formality.<em>Corpus Linguistics and Linguistic Theory</em> 19(1). 79-113. https://doi.org/10.1515/cllt-2022-0031</p>
   <p>Engel, Alexandra, Grafmiller, Jason, Rosseel, Laura & Szmrecsanyi, Benedikt. 2022. Assessing the complexity of lectal competence: the register-specificity of the dative alternation after <em>give</em>. <em>Cognitive Linguistics</em> 33(4). 727-766. https://doi.org/10.1515/cog-2021-0107</p>
