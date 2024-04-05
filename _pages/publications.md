@@ -3,8 +3,6 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-output:
-      html_document: default
 ---
 
 Publications
