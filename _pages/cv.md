@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Linguistics, KU Leuven, 2022
-* M.A. in Speech and Language Processing, University of Konstanz, 2018
-* B.A. in German Linguistics and Literary Studies (major) and History (minor), University of Freiburg, 2015
+* 2022: Ph.D in Linguistics, KU Leuven
+* 2018: Master of Arts in Speech and Language Processing, University of Konstanz
+* 2015: Bachelor of Arts in German Linguistics and Literary Studies (major) and History (minor), University of Freiburg
 
 Work experience
 ======
-* 10/2023 - today: Scientific Librarian in training
-  * University of Konstanz
+* 10/2023 - today: Scientific Librarian in training, University of Konstanz
 
-* 03/2023 - 08/2023: Librarian with a focus on Open Access
-  * imec vzw
+* 03/2023 - 08/2023: Librarian with a focus on Open Access, imec vzw
   * Duties included: curating data for the institutional Open Access repository, document delivery service for researchers
 
-* 10/2018 - 12/2022: Doctoral Student
-  * KU Leuven
+* 10/2018 - 12/2022: Doctoral Student, KU Leuven
   * PhD dissertation (unpublished manuscript): Engel, Alexandra. 2022. *The register-specificity of probabilistic grammars in English and Dutch - Combining corpus analysis and experimentation*. Leuven: KU Leuven PhD dissertation. <a href="https://lirias.kuleuven.be/handle/20.500.12942/707293">https://lirias.kuleuven.be/handle/20.500.12942/707293</a>
   * Supervisor: Benedikt Szmrecsanyi
   * Co-supervisors: Jason Grafmiller, Laura Rosseel, Freek Van de Velde
