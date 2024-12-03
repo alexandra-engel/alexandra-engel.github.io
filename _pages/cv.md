@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 10/2024 - today: Scientific Librarian, The University of Freiburg
+* 10/2024 - today: Scientific Librarian, University of Freiburg
    * Duties include: assistance to the directorate, public relations, collection development
      
 * 10/2023 - 09/2024: Scientific Librarian in training, University of Konstanz
