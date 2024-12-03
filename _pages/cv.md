@@ -17,7 +17,10 @@ Education
 
 Work experience
 ======
-* 10/2023 - today: Scientific Librarian in training, University of Konstanz
+* 10/2024 - today: Scientific Librarian, The University of Freiburg
+   * Duties include: assistance to the directorate, public relations, collection development
+     
+* 10/2023 - 09/2024: Scientific Librarian in training, University of Konstanz
 
 * 03/2023 - 08/2023: Librarian with a focus on Open Access, imec vzw
   * Duties included: curating data for the institutional Open Access repository, document delivery service for researchers
