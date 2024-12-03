@@ -33,7 +33,7 @@ Work experience
 
 Other activities
 ======
-* Reviewer for *Language Variation and Change* and *Cognitive Linguistics*
+* Reviewer for *Language Variation and Change*, *Cognitive Linguistics* and *Corpora*
 * Science communication with Science Figured Out: 
 {% include youtube.html id="gQ78dAKtNZg" %}
 <a href="https://www.sciencefiguredout.be/can-we-be-multilingual-our-own-mother-tongue">https://www.sciencefiguredout.be/can-we-be-multilingual-our-own-mother-tongue</a>
