@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* 2026: Master of Arts in Library and Information Science, HU Berlin
 * 2022: Ph.D in Linguistics, KU Leuven
 * 2018: Master of Arts in Speech and Language Processing, University of Konstanz
 * 2015: Bachelor of Arts in German Linguistics and Literary Studies (major) and History (minor), University of Freiburg
@@ -18,7 +19,7 @@ Education
 Work experience
 ======
 * 10/2024 - today: Scientific Librarian, University of Freiburg
-   * Duties include: assistance to the directorate, public relations, collection development
+   * Duties include: assistance to the directorate, public relations, collection management
      
 * 10/2023 - 09/2024: Scientific Librarian in training, University of Konstanz
 
